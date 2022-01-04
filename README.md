@@ -9,4 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
     <img src="https://cdn.betterttv.net/emote/60a1d7ed67644f1d67e87938/3x" />
+  <img src="https://cdn.betterttv.net/emote/60a1d7ed67644f1d67e87938/3x" />
+  <img src="https://cdn.betterttv.net/emote/60a1d7ed67644f1d67e87938/3x" />
+  <img src="https://cdn.betterttv.net/emote/60a1d7ed67644f1d67e87938/3x" />
+  <img src="https://cdn.betterttv.net/emote/60a1d7ed67644f1d67e87938/3x" />
 </p>
