@@ -2,7 +2,6 @@
 - 👀 I’m interested in veryPog
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on very nice projects
-- 📫 How to reach me 
 
 <!---
 gabrainmonke/gabrainmonke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
