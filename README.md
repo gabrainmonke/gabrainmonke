@@ -8,5 +8,5 @@ gabrainmonke/gabrainmonke is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-![alt text](https://cdn.betterttv.net/emote/60a1d7ed67644f1d67e87938/3x "Logo Title Text 1")
+    <img src="https://cdn.betterttv.net/emote/60a1d7ed67644f1d67e87938/3x" />
 </p>
